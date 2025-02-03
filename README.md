@@ -8,7 +8,9 @@ A high-performance implementation of Elementary Cellular Automata (ECA) followin
 
 The output of the program is an ASCII representation of the cellular automaton, where each cell is represented by a `*` character. The program is designed to be run in a terminal, where the output can be displayed in a grid.
 
-> No libraries, other than the standard IO, string and stdlib libraries, are used in this implementation. The program is written in ANSI C and will compile on any platform with a C compiler.
+*No libraries, other than the standard IO, string and stdlib libraries, are used in this implementation. The program is written in ANSI C and will compile on any platform with a C compiler.*
+
+>Can't run the program? No worries, you can check out [this demo video](https://youtu.be/F4OrqiIg3Lc) to see the program in action!
 
 ## Table of Contents
 - [Background](#background)
